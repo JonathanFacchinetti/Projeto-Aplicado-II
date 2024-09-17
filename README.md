@@ -23,5 +23,3 @@ Este projeto está diretamente relacionado ao ODS 7 - Energia Acessível e Limpa
 ### Apresentação sobre nosso projeto
 
 - Link para o vídeo de apresentação do projeto: [Vídeo de Apresentação](https://www.youtube.com/watch?v=zJkmcigNQno)
-
-- Link para o artigo: (EM CRIAÇÃO/CORREÇÃO).
